@@ -1,0 +1,21 @@
+body {
+  background-color: yellow;
+}
+
+h1 {
+  color: Orange;
+  font-size: 30px;
+  font-family: monospace;
+}
+
+ul {
+  color:purple;
+  font-family:monospace;
+  font-size:20px;
+}
+
+ol {
+  color:purple;
+  font-family:monospace;
+  font-size:20px;
+}
